@@ -1,4 +1,4 @@
-![logo](https://github.com/mdrakib849/mdrakib849/blob/main/programmer.png)
+![logo](https://github.com/mdrakib849/mdrakib849/blob/main/Github%20Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Rakib</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
